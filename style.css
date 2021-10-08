@@ -192,6 +192,7 @@ img {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding-left: 3em;
 }
 
 .footer__logo {
@@ -227,7 +228,7 @@ img {
     justify-content: center;
     align-items: center;
     gap: 30px;
-    padding-right: 3em;
+    padding-right: 2em;
     font-size: 1.4rem;
 }
 
