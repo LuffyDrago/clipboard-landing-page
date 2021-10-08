@@ -49,6 +49,7 @@ body {
     background-position: top center;
     background-size: contain;
     padding: 0 31px;
+    overflow-x: initial !important;
 }
 
 .hero {
